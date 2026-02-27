@@ -39,7 +39,7 @@ text3 = "...                                 ";
 
 function ketik() {
   let i = 0;
-  let text = "Lamun aya masalah bebeja ka urang " + String.fromCodePoint(0x1F496);
+  let text = "Suy aku tau yang kamu jalanin belakangan ini berat apalagi kamu gamau bikin mama mu kecewa karena kamu sayang beliau " + String.fromCodePoint(0x1F496);
   document.getElementById("text").innerHTML = "";
 
   function type() {
@@ -56,7 +56,7 @@ function ketik() {
 
 function ketikk() {
   let u = 0;
-  let text2 = "Jaga diri baik-baik... Jangan sedih terus, tetap semangat ya "+ String.fromCodePoint(0x1F525);
+  let text2 = "Lalu di bulan april itu bulan kamu, kamu all in tapi tetep ingat kesehatan ya "+ String.fromCodePoint(0x1F525);
   document.getElementById("text2").innerHTML = "";
 
   function type() {
@@ -73,7 +73,7 @@ function ketikk() {
 
 function siap() {
   let o = 0;
-  let text3 = "Jangan makan pedes";
+  let text3 = "Jaga diri baik-baik... Jangan sedih terus, tetap semangat ya ";
   document.getElementById("text3").innerHTML = "";
 
   function type() {
@@ -89,3 +89,4 @@ function siap() {
 function showDiv() {
   document.getElementById("Content").style.display = "block";
 }
+
